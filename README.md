@@ -1,1 +1,2 @@
-# JS101_Learning_Javascript1
+# JS101_Learning_Javascript
+
